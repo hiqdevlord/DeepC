@@ -2,6 +2,6 @@
 #include <stdio.h>
 int main(void)
 {
-  printf("Hello ping!\n");
+  printf("Hello ping ping:)!\n");
   return 0;
 }
